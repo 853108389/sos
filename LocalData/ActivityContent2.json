@@ -1,0 +1,138 @@
+{
+    "activityInfo": [
+        {
+            "id": 1,
+            "lable": "活动详情",
+            "dataKey": "introduction",
+            "dataValue": "这是一段活动详情emmmmmmmmmmmmmmmmm"
+        },
+        {
+            "id": 6,
+            "lable": "社团名称",
+            "dataKey": "teamName",
+            "dataValue": "地生院科协"
+        },
+        {
+            "id": 7,
+            "lable": "发布时间",
+            "dataKey": "pushTime",
+            "dataValue": "2017-01-01"
+        },
+        {
+            "id": 2,
+            "lable": "活动标题",
+            "dataKey": "activityTitle",
+            "dataValue": "艺创征文巡回赛江苏aaa站【欢迎扩散】"
+        },
+        {
+            "id": 3,
+            "lable": "活动时间",
+            "dataKey": "activityTime",
+            "dataValue": "即日起至2017年12月31日"
+        },
+        {
+            "id": 4,
+            "lable": "活动地点",
+            "dataKey": "activityPlace",
+            "dataValue": "xxxxx食堂"
+        }
+    ],
+    "activityWay": [
+        {
+            "id": 1,
+            "lable": "1",
+            "dataKey": "activityWay1",
+            "dataValue": " 邮件主题：1短篇／中篇／长篇＋南邮＋作品名 如果不是南邮的，邮件主题请写：短篇／中篇／长篇＋学校（通过南邮投稿）＋作品名"
+        },
+        {
+            "id": 2,
+            "lable": "2",
+            "dataKey": "activityWay2",
+            "dataValue": " 邮件正文：作者姓名、常用联系方式"
+        },
+        {
+            "id": 3,
+            "lable": "3",
+            "dataKey": "activityWay3",
+            "dataValue": " 投稿作品采用word文档以附件的形式发送，4号宋体字排版，短篇和中篇作品需附200-500字的内容简介，长篇小说需附1500字左右的故事梗概。"
+        }
+    ],
+    "activityRequire": [
+        {
+            "id": 1,
+            "lable": "1",
+            "dataKey": "activityWay1",
+            "dataValue": " 参赛作品必须为原创，作者拥有全部版权，且未在任何公开出版物或网络载体上发表过。"
+        },
+        {
+            "id": 2,
+            "lable": "2",
+            "dataKey": "activityWay2",
+            "dataValue": " 参赛作品必须积极向上，无抄袭复制。不得违反国家政策法规，不得涉政涉黄涉黑，不得侮辱民族宗教信仰，违者一律取消参赛资格并自行承担相应法律后果。 "
+        },
+        {
+            "id": 3,
+            "lable": "3",
+            "dataKey": "activityWay3",
+            "dataValue": "参赛作品以小说为主（虚构非虚构均可），不得少于5000字。分为短篇组（5千-2万字）、中篇组（2万-8万字）、长篇组（8万-30万字）。原创剧本可参与投稿，另设单项奖。"
+        },
+        {
+            "id": 4,
+            "lable": "4",
+            "dataKey": "activityWay4",
+            "dataValue": "参赛作品以小说为主（虚构非虚构均可），不得少于5000字。分为短篇组（5千-2万字）、中篇组（2万-8万字）、长篇组（8万-30万字）。原创剧本可参与投稿，另设单项奖。"
+        },
+        {
+            "id": 5,
+            "lable": "5",
+            "dataKey": "activityWay5",
+            "dataValue": " 投稿作品采用word文档以附件的形式发送，4号宋体字排版，短篇和中篇作品需附200-500字的内容简介，长篇小说需附1500字左右的故事梗概。"
+        },
+        {
+            "id": 6,
+            "lable": "6",
+            "dataKey": "activityWay6",
+            "dataValue": " 有意向参赛者可添加赛事官方QQ通知群437534953  跟踪赛事相关信息与文件，身边有同学想参加这个活动的，可以邀请进群。"
+        },
+        {
+            "id": 7,
+            "lable": "7",
+            "dataKey": "activityWay7",
+            "dataValue": " 如果参赛选手手中有已完结或快要完结的小说作品，可以尽快投稿，提早获悉作品参赛结果。"
+        }
+    ],
+    "connectWay": [
+        {
+            "id": 1,
+            "lable": "1",
+            "dataKey": "connectWay1",
+            "dataValue": "投稿邮箱:story03@ahycwh.com"
+        }
+    ],
+    "memo": [
+        {
+            "id": 1,
+            "lable": "1",
+            "dataKey": "memo1",
+            "dataValue": "我是备注1..........."
+        }
+    ],
+    "activityImg": [
+        {
+            "id": 1,
+            "uri": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506706883477&di=585ba31d89bf08587d8a60689953cdb2&imgtype=0&src=http%3A%2F%2Fimg2.niutuku.com%2Fdesk%2Fanime%2F0328%2F0328-2252.jpg"
+        },
+        {
+            "id": 2,
+            "uri": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506706883477&di=585ba31d89bf08587d8a60689953cdb2&imgtype=0&src=http%3A%2F%2Fimg2.niutuku.com%2Fdesk%2Fanime%2F0328%2F0328-2252.jpg"
+        },
+        {
+            "id": 3,
+            "uri": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506706883477&di=585ba31d89bf08587d8a60689953cdb2&imgtype=0&src=http%3A%2F%2Fimg2.niutuku.com%2Fdesk%2Fanime%2F0328%2F0328-2252.jpg"
+        }
+    ], //底部图片
+    "info": {
+        "loves": 11,
+        "commons": 12
+    }
+}

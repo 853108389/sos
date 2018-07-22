@@ -1,0 +1,86 @@
+{
+    "teamImg": [
+        "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2316703000,4192174784&fm=27&gp=0.jpg",
+        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507445122&di=c64480931f87af9323a8e9e623ef3c26&imgtype=jpg&er=1&src=http%3A%2F%2Fs7.sinaimg.cn%2Fbmiddle%2F49de79433ddcb7478bbd6",
+        "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1506850424333&di=9f1b6d8323f197a7b808c4924672b5a7&imgtype=0&src=http%3A%2F%2Fd.hiphotos.baidu.com%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D0616fe63f3deb48ffb3ca9dac52f161f%2F0d338744ebf81a4caae388cbd72a6059242da6db.jpg"
+    ],
+    
+    "teamInfo": [
+        {
+            "id": 1,
+            "lable": "名称",
+            "dataKey": "teamName",
+            "dataValue": "地生院科协"
+        },
+        {
+            "id": 2,
+            "lable": "介绍",
+            "dataKey": "Introduction",
+            "dataValue": "我是社团的长长的介绍........................................................................................................."
+        },
+        {
+            "id": 1,
+            "lable": "级别",
+            "dataKey": "teamLevel",
+            "dataValue": "校级"
+        },
+        {
+            "id": 2,
+            "lable": "人数",
+            "dataKey": "teamMembers",
+            "dataValue": "20人"
+        },
+        {
+            "id": 3,
+            "lable": "状态",
+            "dataKey": "teamStatus",
+            "dataValue": "举办活动中...."
+        },
+        {
+            "id": 4,
+            "lable": "成立时间",
+            "dataKey": "teamEstablishTime",
+            "dataValue": "1997-12-12"
+        },
+        {
+            "id": 5,
+            "lable": "活动室",
+            "dataKey": "teamPlace",
+            "dataValue": "地生院学科楼213"
+        }
+    ],
+    "connectWay": [
+        {
+            "id": 1,
+            "lable": "邮箱",
+            "dataKey": "teamEmail",
+            "dataValue": "853108389@qq.com"
+        },
+        {
+            "id": 2,
+            "lable": "电话",
+            "dataKey": "teamTel",
+            "dataValue": "17805005900"
+        },
+        {
+            "id": 3,
+            "lable": "群号",
+            "dataKey": "teamGroup",
+            "dataValue": "861589792"
+        }
+    ],
+    "teamRequire": [
+        {
+            "id": 1,
+            "lable": "条件1",
+            "dataKey": "teamRequire1",
+            "dataValue": "想来就来!"
+        },
+        {
+            "id": 1,
+            "lable": "条件2",
+            "dataKey": "teamRequire1",
+            "dataValue": "不想来就不来!"
+        }
+    ]
+}

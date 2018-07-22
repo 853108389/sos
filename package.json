@@ -1,0 +1,40 @@
+{
+  "name": "sos",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "mock": "^0.1.1",
+    "mockjs": "^1.0.1-beta3",
+    "moment": "^2.20.1",
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.48.3",
+    "react-native-button": "^2.1.0",
+    "react-native-deprecated-custom-components": "^0.1.1",
+    "react-native-image-crop-picker": "^0.17.2",
+    "react-native-image-picker": "^0.26.7",
+    "react-native-image-to-base64": "^0.1.0",
+    "react-native-modal-dropdown": "^0.5.0",
+    "react-native-qiniu": "^0.3.0",
+    "react-native-scrollable-tab-view": "^0.6.7",
+    "react-native-splash-screen": "^3.0.6",
+    "react-native-storage": "^0.2.2",
+    "react-native-uploader": "0.0.10",
+    "react-native-vector-icons": "^4.5.0",
+    "react-native-video": "^2.0.0",
+    "react-navigation": "^1.1.2"
+  },
+  "devDependencies": {
+    "babel-jest": "21.0.2",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.1.0",
+    "react-test-renderer": "16.0.0-alpha.12"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "optionalDependencies": {}
+}

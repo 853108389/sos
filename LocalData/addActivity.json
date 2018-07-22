@@ -1,0 +1,51 @@
+{
+    "activityInfo": [{
+            "id": 1,
+            "lable": "活动名称",
+            "dataKey": "activityName",
+            "dataValue": ""
+        },
+        {
+            "id": 2,
+            "lable": "活动介绍",
+            "dataKey": "introduction",
+            "dataValue": ""
+        },
+        {
+            "id": 3,
+            "lable": "社团名称",
+            "dataKey": "teamName",
+            "dataValue": ""
+        },
+        // {
+        //     "id": 7,
+        //     "lable": "发布时间",
+        //     "dataKey": "pushTime",
+        //     "dataValue": ""
+        // },
+        {
+            "id": 4,
+            "lable": "活动简介",
+            "dataKey": "activityTitle",
+            "dataValue": ""
+        },
+        {
+            "id": 5,
+            "lable": "活动时间",
+            "dataKey": "activityTime",
+            "dataValue": ""
+        },
+        {
+            "id": 6,
+            "lable": "活动地点",
+            "dataKey": "activityPlace",
+            "dataValue": ""
+        }
+    ],
+    "activityWay": [],
+    "activityRequire": [],
+    "connectWay": [],
+    "memo": [],
+    "activityImg": [],
+    "activityBackimg": {}
+}
